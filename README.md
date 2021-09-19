@@ -13,4 +13,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuuOW&layout=compact&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LuuOW/github-readme-stats)
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[![alt text][1.1]][1]
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
