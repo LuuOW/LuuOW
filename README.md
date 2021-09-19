@@ -9,5 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuuOW)](https://github.com/LuuOW/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuuOW&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LuuOW/github-readme-stats)
