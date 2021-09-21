@@ -1,3 +1,6 @@
+
+![Image of Yaktocat](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg)(https://www.linkedin.com/in/lucaskempe/)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Android, ReactJS, AI & Blockchain
@@ -9,7 +12,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...]
 
-![Image of Yaktocat](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuuOW&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LuuOW/github-readme-stats)
 
