@@ -1,5 +1,7 @@
 
-![Image of Yaktocat](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg)(https://www.linkedin.com/in/lucaskempe/)
+![Image of Yaktocat](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg)
+Format: ![Alt Text](https://www.linkedin.com/in/lucaskempe/)
+
 
 ### Hi there 👋
 
