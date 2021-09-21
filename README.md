@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...]
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuuOW&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LuuOW/github-readme-stats)
 
