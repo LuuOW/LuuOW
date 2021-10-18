@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Android, ReactJS.
+- 🔭 I’m currently working on Android, iOS, ReactJS.
 - 🌱 I’m currently learning AI, Blockchain.
 - 👯 I’m looking to collaborate on Lbry
 
