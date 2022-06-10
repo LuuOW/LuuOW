@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Android, iOS, ReactJS.
+- 🔭 I’m currently working on Android & iOS.
 - 🌱 I’m currently learning AI, Blockchain.
-- 👯 I’m looking to collaborate on Lbry
+- 👯 I’m looking to collaborate with something cool
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuuOW&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LuuOW/github-readme-stats)
